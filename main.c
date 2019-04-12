@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 void sub1(){
+	for (int i = 0; i<5; i++)
+		printf("*\n");
 }
 
 void sub2(){
